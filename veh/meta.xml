@@ -1,0 +1,5 @@
+<meta>
+     <info author="Sanya"/>
+     <script src="veh_created.lua" type="server"/>
+     <script src="veh_opt.lua" type="server"/>
+</meta>
